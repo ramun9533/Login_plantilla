@@ -7,7 +7,7 @@ Este login se pretende usar como plantilla de una bacj¿kend basado en fastapi
 
 <table>
 <tr>
-    <td><img src="https://github.com/ramun9533/Login_plantilla/blob/main/Screenshot_20240116_214830.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="600" height="800" style="
+    <td><img src="https://github.com/ramun9533/Login_plantilla/blob/main/Screenshot_20240116_214830.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="700" height="800" style="
     border-radius: 15px;">
  </td>
     
