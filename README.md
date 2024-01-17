@@ -4,8 +4,15 @@ Este login se pretende usar como plantilla de una bacj¿kend basado en fastapi
 
 ## Capturas de Pantalla
 
-![Como se ve]([https://url-de-tu-imagen-1.png](https://github.com/ramun9533/Login_plantilla/blob/main/Screenshot_20240116_214830.png)
 
+<table>
+<tr>
+    <td><img src="https://github.com/ramun9533/Login_plantilla/blob/main/Screenshot_20240116_214830.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="200" style="
+    border-radius: 15px;">
+ </td>
+    
+ </tr>
+ </table>
 
 ## Características
 
